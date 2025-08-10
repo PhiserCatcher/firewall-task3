@@ -1,0 +1,10 @@
+firewall-task/
+├─ screenshots/
+│  ├─ screenshot_ufw_status_before.png
+│  ├─ screenshot_ufw_after_block.png
+│  └─ screenshot_telnet_test.png
+├─ outputs/
+│  ├─ ufw_status_before.txt
+│  ├─ ufw_status_after_block.txt
+│  └─ telnet_test_local.txt
+├─ README.md
